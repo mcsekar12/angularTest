@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.162" height="30" viewBox="0 0 21.162 30">
+    <defs>
+        <style>
+            .cls-1rc{fill:#42aeaf}
+        </style>
+    </defs>
+    <g id="Recived-count" transform="translate(-388.419 -721)">
+        <g id="Group_335" data-name="Group 335">
+            <g id="Group_334" data-name="Group 334">
+                <path id="Path_195" d="M405.174 731.311h-12.348a.62.62 0 0 0 0 1.24H405.2a.619.619 0 0 0 .62-.62.64.64 0 0 0-.646-.62z" class="cls-1rc" data-name="Path 195"/>
+                <path id="Path_196" d="M405.174 734.815h-12.348a.62.62 0 1 0 0 1.24H405.2a.619.619 0 0 0 .62-.62.64.64 0 0 0-.646-.62z" class="cls-1rc" data-name="Path 196"/>
+                <path id="Path_197" d="M405.174 738.32h-12.348a.62.62 0 1 0 0 1.24H405.2a.619.619 0 0 0 .62-.62.657.657 0 0 0-.646-.62z" class="cls-1rc" data-name="Path 197"/>
+                <path id="Path_198" d="M405.794 742.444a.619.619 0 0 0-.62-.62h-12.348a.62.62 0 0 0 0 1.24H405.2a.613.613 0 0 0 .594-.62z" class="cls-1rc" data-name="Path 198"/>
+                <path id="Path_199" d="M396.14 745a.62.62 0 1 0 0 1.239h5.72a.62.62 0 1 0 0-1.239z" class="cls-1rc" data-name="Path 199"/>
+                <path id="Path_200" d="M403.026 726.07l1.86 1.86h2.265v20.739h-16.3v-20.74h2.265l1.86-1.86h-6.555V751h21.162v-24.93z" class="cls-1rc" data-name="Path 200"/>
+                <path id="Path_201" d="M396.355 726.4l-2.314 2.314h9.894l-2.29-2.29a1.161 1.161 0 0 1-.215-1.356 2.723 2.723 0 0 0 .307-1.761 2.772 2.772 0 0 0-5.505.454 2.857 2.857 0 0 0 .307 1.289 1.1 1.1 0 0 1-.184 1.35z" class="cls-1rc" data-name="Path 201"/>
+            </g>
+        </g>
+    </g>
+</svg>

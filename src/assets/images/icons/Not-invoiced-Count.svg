@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.001" height="30.081" viewBox="0 0 27.001 30.081">
+    <defs>
+        <style>
+            .cls-1{fill:#00447c}
+        </style>
+    </defs>
+    <g id="Not-invoiced-Count" transform="translate(-25.17)">
+        <path id="Path_1515" d="M50.347 0H32.774a1.826 1.826 0 0 0-1.824 1.824v4.081a7.972 7.972 0 0 0 0 15.33v7.022a1.826 1.826 0 0 0 1.824 1.824h14.36a.642.642 0 0 0 .454-.188l4.395-4.393a.642.642 0 0 0 .188-.454V1.824A1.826 1.826 0 0 0 50.347 0zM32.774 1.285h17.573a.54.54 0 0 1 .539.539v1.938H32.235V1.824a.54.54 0 0 1 .539-.539zM26.455 13.57a6.686 6.686 0 1 1 6.686 6.686 6.694 6.694 0 0 1-6.686-6.686zm5.781 14.687v-6.768a7.958 7.958 0 0 0 6.912-2.689h3.936a.642.642 0 0 0 0-1.285h-3.021a7.913 7.913 0 0 0 1.018-3.257h2a.642.642 0 1 0 0-1.285h-1.992a7.912 7.912 0 0 0-.972-3.257h2.966a.642.642 0 1 0 0-1.285h-3.852a7.958 7.958 0 0 0-7-2.784v-.6h18.655V24.4h-2.57a1.826 1.826 0 0 0-1.824 1.824V28.8H32.774a.54.54 0 0 1-.539-.543zm15.542-.369v-1.662a.54.54 0 0 1 .539-.539h1.662z" class="cls-1" data-name="Path 1515"/>
+        <path id="Path_1516" d="M349.388 139.154h2.133a.642.642 0 1 0 0-1.285h-2.133a.642.642 0 1 0 0 1.285z" class="cls-1" data-name="Path 1516" transform="translate(-303.781 -129.435)"/>
+        <path id="Path_1517" d="M349.388 213.395h2.133a.642.642 0 1 0 0-1.285h-2.133a.642.642 0 1 0 0 1.285z" class="cls-1" data-name="Path 1517" transform="translate(-303.781 -199.134)"/>
+        <path id="Path_1518" d="M349.388 287.637h2.133a.642.642 0 0 0 0-1.285h-2.133a.642.642 0 1 0 0 1.285z" class="cls-1" data-name="Path 1518" transform="translate(-303.781 -268.834)"/>
+        <path id="Path_1519" d="M292.042 361.878a.642.642 0 1 0 0-1.285h-6.009a.642.642 0 0 0 0 1.285z" class="cls-1" data-name="Path 1519" transform="translate(-244.301 -338.533)"/>
+        <g id="Group_2086" data-name="Group 2086" transform="translate(-.962 -.896)">
+            <path id="Rectangle_650" d="M0 0h9.218v1.317H0z" class="cls-1" data-name="Rectangle 650" transform="rotate(39 .135 49.418)"/>
+            <path id="Rectangle_651" d="M0 0h9.218v1.317H0z" class="cls-1" data-name="Rectangle 651" transform="rotate(135 16.62 13.648)"/>
+        </g>
+    </g>
+</svg>
